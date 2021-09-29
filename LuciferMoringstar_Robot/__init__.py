@@ -27,13 +27,13 @@ Bot Owner Only
 
 [➡️How To Add Old Files For database](https://youtu.be/mtu5hgW-l_o)
 
-@Mo_Tech_YT
+@cinimakoot
 """
 
 ABOUT = """
 ➥ Name :  Auto Filter With IMDB
     
-➥ Creator : [Muhammed RK](t.me/Mrk_YT)
+➥ Creator : [JANVI](https://t.me/Dark_holdz)
 
 ➥ Language : Python3
 
