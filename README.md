@@ -2,8 +2,8 @@
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/PR0FESS0R-99/LuciferMoringstar_Robot?style=social)
 <img src="https://img.shields.io/github/forks/PR0FESS0R-99/LuciferMoringstar_Robot?style=social"></img>
-## Video
-<a href="https://t.me/Dark_holdz"><img src="https://img.shields.io/badge/JANVI-1b77FF.svg?logo=Telegram"></a><img 
+## editor
+<a href="https://t.me/Dark_holdz"><img src="https://img.shields.io/badge/JANVI-1b77FF.svg?logo=Telegram"></a> 
 
 
                                                                                                                
